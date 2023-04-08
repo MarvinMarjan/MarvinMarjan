@@ -5,6 +5,6 @@ Hi, my name is Marvin and I'm 14 years old, i live in Amazonas, Brazil and i'm a
 - 🔭 I’m currently working on my project [PainterQt](https://github.com/MarvinMarjan/PainterQt)
 - 🌱 I’m currently improving my C++ / Qt skills
 - 📫 How to reach me: [Twitter](https://twitter.com/MarvinMarjan), [Instagram](https://instagram.com/marv.marj)
-- ☕ Buy me a coffee 💖: [Ko-Fi](https://ko-fi.com/MarvinMarjan)
+- ☕ Buy me a coffee 💖: [Ko-Fi](https://ko-fi.com/MarvinMarjan), [Patreon](https://patreon.com/MarvinMarjan)
 - 🌎 I live in Brazil
 - 🎂 I was born on 01/08/2009 (14 years)
