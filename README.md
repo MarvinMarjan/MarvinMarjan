@@ -4,6 +4,5 @@ Hi, my name is Marvin and I'm 14 years old, i live in Amazonas, Brazil and i'm a
 
 - 🔭 I’m currently working on my language [riv](https://github.com/MarvinMarjan/riv)
 - 🌱 I’m currently improving my C++ skills
-- 📫 How to reach me: [Twitter](https://twitter.com/MarvinMarjan), [Instagram](https://instagram.com/marv.marj)
 - 🌎 I live in Brazil
 - 🎂 I was born on 01/08/2009 (14 years)
